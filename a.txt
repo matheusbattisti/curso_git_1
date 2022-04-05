@@ -6,3 +6,5 @@ de Arquivo
 enviando
 a funcionalidade
 x
+X
+enviando a funcionalidade a
