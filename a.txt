@@ -5,5 +5,4 @@ de Arquivo
 2
 enviando
 a funcionalidade
-X
-enviando a funcionalidade b
+x
